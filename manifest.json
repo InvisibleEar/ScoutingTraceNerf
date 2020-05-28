@@ -1,0 +1,8 @@
+{
+    "name": "Scouting Trace Nerf",
+    "author": "Invisible Ear",
+    "version": "1.0.0",
+
+    "description": "Reduce chance of reconnoitre generating a trace",
+    "description_long": "Reduce chance of reconnoitre generating a trace"
+}
